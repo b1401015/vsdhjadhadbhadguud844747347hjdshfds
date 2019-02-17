@@ -1,0 +1,22 @@
+﻿/*2019_01_09 new Tuyến*/
+CREATE TABLE `career` (
+  `_id` int(11) NOT NULL AUTO_INCREMENT,
+  `type` enum('part_time','full_time') DEFAULT 'full_time',
+  `workplace` varchar(191) NOT NULL,
+  `title` varchar(191) DEFAULT NULL,
+  `plain_title` varchar(191) DEFAULT NULL,
+  `slug` varchar(255) DEFAULT NULL,
+   `img_src` varchar(500) DEFAULT NULL,
+  `_description` text,
+  `_key` varchar(191) NOT NULL,
+  `is_active` tinyint(1) DEFAULT '1',
+  `is_delete` tinyint(1) DEFAULT '0',
+  `ordinal` int(11) DEFAULT '1',
+  `create_time_mi` varchar(15) DEFAULT NULL,
+  `update_time_mi` varchar(15) DEFAULT NULL,
+  `created_by` int(11) DEFAULT NULL,
+  `updated_by` int(11) DEFAULT NULL,
+  PRIMARY KEY (`_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
+
+
