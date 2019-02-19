@@ -79,15 +79,17 @@
                     <div class="col-xs-12 col-sm-3">
                         <div class="blog-img"> <img src="<?php echo public_url('front');?>/digital_template/images/blog-img1.jpg" alt="Image">
                         </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
+                        <a href="blog-detail.html">
                         <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
-                        <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
+                        </a>
+                            <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
                     </div>
                     <div class="col-xs-12 col-sm-3 wow">
                         <div class="blog-img"> <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
                         </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
-                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
+                       <a href="blog-detail.html">
+                        <p style="font-family: 'Roboto', sans-serif;">Công trình lắp đặt Camera KBVISION-USA tại 2 Sàn giao dịch Novaland Đà Nẵng và Bình Khánh </p>
+                       </a>
                         <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
                     </div>
                     <div class="col-xs-12 col-sm-3 wow">
@@ -95,55 +97,19 @@
                             <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
                             <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
                         </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
+                        <a href="blog-detail.html">
                         <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
-                        <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
+                        </a>
+                            <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
                     </div>
                     <div class="col-xs-12 col-sm-3 wow">
                         <div class="blog-img">
                             <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
                             <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
                         </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
+                        <a href="blog-detail.html">
                         <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
-                        <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="col-xs-12 col-sm-3 wow">
-                        <div class="blog-img">
-                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
-                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
-                        </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
-                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
-                        <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
-                    </div>
-                    <div class="col-xs-12 col-sm-3 wow">
-                        <div class="blog-img">
-                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
-                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
-                        </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
-                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
-                        <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
-                    </div>
-                    <div class="col-xs-12 col-sm-3 wow">
-                        <div class="blog-img">
-                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
-                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
-                        </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
-                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
-                        <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
-                    </div>
-                    <div class="col-xs-12 col-sm-3 wow">
-                        <div class="blog-img">
-                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
-                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
-                        </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
-                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
+                        </a>
                         <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
                     </div>
                 </div>
@@ -153,8 +119,29 @@
                             <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
                             <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
                         </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
+                        <a href="blog-detail.html">
                         <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
+                        </a>
+                            <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
+                    </div>
+                    <div class="col-xs-12 col-sm-3 wow">
+                        <div class="blog-img">
+                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
+                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
+                        </div>
+                        <a href="blog-detail.html">
+                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
+                        </a>
+                            <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
+                    </div>
+                    <div class="col-xs-12 col-sm-3 wow">
+                        <div class="blog-img">
+                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
+                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
+                        </div>
+                        <a href="blog-detail.html">
+                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
+                        </a>
                         <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
                     </div>
                     <div class="col-xs-12 col-sm-3 wow">
@@ -162,27 +149,10 @@
                             <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
                             <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
                         </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
+                        <a href="blog-detail.html">
                         <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
-                        <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
-                    </div>
-                    <div class="col-xs-12 col-sm-3 wow">
-                        <div class="blog-img">
-                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
-                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
-                        </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
-                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
-                        <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
-                    </div>
-                    <div class="col-xs-12 col-sm-3 wow">
-                        <div class="blog-img">
-                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
-                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
-                        </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
-                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
-                        <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
+                        </a>
+                            <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
                     </div>
                 </div>
                 <div class="item">
@@ -191,8 +161,61 @@
                             <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
                             <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
                         </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
+                        <a href="blog-detail.html">
                         <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
+                        </a>
+                            <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
+                    </div>
+                    <div class="col-xs-12 col-sm-3 wow">
+                        <div class="blog-img">
+                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
+                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
+                        </div>
+                        <a href="blog-detail.html">
+                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
+                        </a>
+                            <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
+                    </div>
+                    <div class="col-xs-12 col-sm-3 wow">
+                        <div class="blog-img">
+                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
+                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
+                        </div>
+                        <a href="blog-detail.html">
+                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
+                        </a>
+                            <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
+                    </div>
+                    <div class="col-xs-12 col-sm-3 wow">
+                        <div class="blog-img">
+                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
+                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
+                        </div>
+                        <a href="blog-detail.html">
+                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
+                        </a>
+                            <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-xs-12 col-sm-3 wow">
+                        <div class="blog-img">
+                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
+                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
+                        </div>
+                        <a href="blog-detail.html">
+                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
+                        </a>
+                            <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
+                    </div>
+                    <div class="col-xs-12 col-sm-3 wow">
+                        <div class="blog-img">
+                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
+                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
+                        </div>
+                        <a href="blog-detail.html">
+                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
+                        </a>
                         <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
                     </div>
                     <div class="col-xs-12 col-sm-3 wow">
@@ -200,26 +223,19 @@
                             <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
                             <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
                         </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
+                        <a href="blog-detail.html">
                         <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
-                        <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
+                        </a>
+                            <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
                     </div>
                     <div class="col-xs-12 col-sm-3 wow">
                         <div class="blog-img">
                             <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
                             <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
                         </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
+                        <a href="blog-detail.html">
                         <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
-                        <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
-                    </div>
-                    <div class="col-xs-12 col-sm-3 wow">
-                        <div class="blog-img">
-                            <img src="<?php echo public_url('front');?>/digital_template/images/blog-img2.jpg" alt="Image">
-                            <!--<div class="mask"> <a class="info" href="blog-detail.html">Read More</a> </div>-->
-                        </div>
-                        <h3><a href="blog-detail.html">Pellentesque habitant morbi</a> </h3>
-                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit  ... </p>
+                        </a>
                         <div class="post-date"><i class="icon-calendar"></i> Apr 10, 2014</div>
                     </div>
                 </div>

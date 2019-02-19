@@ -436,7 +436,7 @@ a.block-currency:focus {
 }
 .search-btn-bg {
 	background-color: #d0ba65;
-	border: 1px solid #ad0800;
+	border: 1px solid #d0ba65;
 	border-radius: 0 1px 1px 0;
 	color: #fff;
 	cursor: pointer;
@@ -8279,10 +8279,10 @@ button.button.btn-proceed-checkout span {
 	font-size: 16px;
 	margin: 0px;
 }
-.latest-blog a:hover {
+/*.latest-blog a:hover {
 	color: #fff;
 	text-decoration: none;
-}
+}*/
 .blog_post img {
 	max-width: 100%;
 	height: auto;
@@ -8308,11 +8308,11 @@ button.button.btn-proceed-checkout span {
 	opacity: 1;
 	transition-delay: 0s;
 }
-.blog-img:hover a.info {
+/*.blog-img:hover a.info {
 	opacity: 1;
 	transform: translateY(110px);
 	transition-delay: 0.3s;
-}
+}*/
 .blog-img .mask, .blog-img .content {
 	width: 100%;
 	height: 100%;
@@ -8333,9 +8333,9 @@ button.button.btn-proceed-checkout span {
 	font-size: 11px;
 	text-transform: uppercase;
 }
-.blog-img a.info:hover {
+/*.blog-img a.info:hover {
 	background: #222;
-}
+}*/
 .blog-img {
 	position: relative;
 	margin-bottom: 10px;
