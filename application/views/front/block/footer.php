@@ -1,39 +1,5 @@
 <!-- Footer -->
 <footer class="footer">
-    <!--<div class="brand-logo ">
-        <div class="container">
-            <div class="slider-items-products">
-                <div id="brand-logo-slider" class="product-flexslider hidden-buttons">
-                    <div class="slider-items slider-width-col6">-->
-                        <!-- Item -->
-                        <!--<div class="item"> <a href="#x"><img src="<?php /*echo public_url('front');*/?>/digital_template/images/b-logo1.png" alt="Image"></a> </div>-->
-                        <!-- End Item -->
-                        <!-- Item -->
-                       <!-- <div class="item"> <a href="#x"><img src="<?php /*echo public_url('front');*/?>/digital_template/images/b-logo2.png" alt="Image"></a> </div>-->
-                        <!-- End Item -->
-                        <!-- Item -->
-                        <!--<div class="item"> <a href="#x"><img src="<?php /*echo public_url('front');*/?>/digital_template/images/b-logo3.png" alt="Image"></a> </div>-->
-                        <!-- End Item -->
-                        <!-- Item -->
-                      <!--  <div class="item"> <a href="#x"><img src="<?php /*echo public_url('front');*/?>/digital_template/images/b-logo4.png" alt="Image"></a> </div>-->
-                        <!-- End Item -->
-                        <!-- Item -->
-                       <!-- <div class="item"> <a href="#x"><img src="<?php /*echo public_url('front');*/?>/digital_template/images/b-logo5.png" alt="Image"></a> </div>-->
-                        <!-- End Item -->
-                        <!-- Item -->
-                     <!--   <div class="item"> <a href="#x"><img src="<?php /*echo public_url('front');*/?>/digital_template/images/b-logo6.png" alt="Image"></a> </div>-->
-                        <!-- End Item -->
-                        <!-- Item -->
-                      <!--  <div class="item"> <a href="#x"><img src="<?php /*echo public_url('front');*/?>/digital_template/images/b-logo1.png" alt="Image"></a> </div>-->
-                        <!-- End Item -->
-                        <!-- Item -->
-                       <!-- <div class="item"> <a href="#x"><img src="<?php /*echo public_url('front');*/?>/digital_template/images/b-logo4.png" alt="Image"></a> </div>-->
-                        <!-- End Item -->
-                   <!-- </div>
-                </div>
-            </div>
-        </div>
-    </div>-->
     <div class="footer-middle container">
         <div class="col-md-3 col-sm-4">
             <div class="footer-logo"><a href="index.html" title="Logo"><img src="<?php echo public_url('front');?>/digital_template/images/footer-logo.png" alt="logo"></a></div>

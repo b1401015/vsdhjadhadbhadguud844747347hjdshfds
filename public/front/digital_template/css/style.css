@@ -9148,7 +9148,7 @@ a.button.wishlist {
 /* 39. Footer */
 
 .footer {
-	background: none repeat scroll 0 0 #710303;
+	background: none repeat scroll 0 0 #d0ba65;
 }
 .footer-top {
 	background-color: #ad0800;
@@ -9181,7 +9181,7 @@ a.button.wishlist {
 	padding: 15px 0 15px;
 }
 .footer-bottom a {
-	color: #e99995;
+	color: #fff;
 }
 .footer-bottom a:hover {
 	text-decoration: none;
@@ -9205,7 +9205,7 @@ a.button.wishlist {
 	margin: 10px 0;
 }
 .footer a, .footer p {
-	color: #e99995;
+	color: #fff;
 	font-size: 12px;
 	padding-bottom: 5px;
 	padding-top: 5px;
@@ -9233,7 +9233,7 @@ a.button.wishlist {
 	padding: 5px 0px;
 }
 .footer-middle .links li a {
-	color: #e99995;
+	color: #fff;
 	transition: color 300ms ease-in-out 0s, background-color 300ms ease-in-out 0s, background-position 300ms ease-in-out 0s;
 }
 .footer-middle .links li a:hover {
@@ -9247,7 +9247,7 @@ a.button.wishlist {
 	display: inline-block;
 	cursor: pointer;
 	line-height: 20px;
-	color: #e99995;
+	color: #fff;
 	margin-right: 5px;
 }
 .add-icon:before {
@@ -9309,7 +9309,7 @@ a.button.wishlist {
 .email-footer a {
 	font-size: 12px;
 	line-height: 35px;
-	color: #e99995
+	color: #fff
 }
 .phone-footer {
 	overflow: hidden;
@@ -9320,7 +9320,7 @@ a.button.wishlist {
 	margin-top: 12px;
 }
 .coppyright {
-	color: #e99995;
+	color: #fff;
 }
 .footer-bottom .company-links ul {
 	padding: 0px;
